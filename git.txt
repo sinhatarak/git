@@ -2,3 +2,25 @@
    Git
 ###########
 
+Aug18-2019
+
+Git tutorial by corey schafer
+
+<<<<<<<< Git stages >>>>>>>>>>>>
+
+1) Working directory:- untracked and modified file 
+git add -A
+git status
+
+Remove filed from stage area
+git reset <file name>
+git status
+git log
+2) staging Area --> whre we want to commited
+git commit -m "Messgares"
+
+git status
+3) git dir(Repository) --> remote
+git branch -a
+git remote -v
+
